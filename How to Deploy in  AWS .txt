@@ -9,7 +9,7 @@ Point 7. Mention the commands in python.config
             option_settings:
               "aws:elasticbeanstalk:container:python":
                 WSGIPath: application:application
-Point 8. Zip all these except this "How to deploy in AWS" and upload to AWS cloud and deploy..
+Point 8. Zip all these except this "ReadME" and "How to deploy in AWS" and upload to AWS cloud and deploy..
 
 
 
